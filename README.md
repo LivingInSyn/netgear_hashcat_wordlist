@@ -6,8 +6,9 @@ Wordlist and hashcat ruleset for cracking the default netgear WPA passphrase. Cr
 ```
 
 # usage
+*Note*: Requires hashcat_utils
 ```shell
-hashcat -m 2500 capture.hccapx netgear_wordlist.txt -r netgear_hashcat_rules 
+./combinator3.bin wordlists/adjectives.txt wordlists/nounds.txt wordlists/numbers.txt |  hashcat -m 2500 capture.hccapx 
 ```
 
 # Thanks
