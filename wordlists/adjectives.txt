@@ -1928,9 +1928,14 @@ gratified
 gratifying
 grating
 gratis
-gratuitous	grave
-gratuitous	graveer
-gratuitous	graveest
+gratuitous
+gratuitous
+gratuitous
+grave
+graveer
+graver
+graveest
+gravest
 gray
 greasy
 greasyer
@@ -3811,7 +3816,8 @@ renegotiable
 renewable
 rented
 repairable
-repaired	repeatable
+repaired
+repeatable
 repeated
 repentant
 repetitious
