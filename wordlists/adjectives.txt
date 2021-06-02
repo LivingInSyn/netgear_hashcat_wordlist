@@ -299,7 +299,6 @@ berserk
 best
 betrayed
 better
-better
 better-late-than-never
 bewildered
 bewildering
@@ -561,7 +560,6 @@ chauvinistic
 cheap
 cheaper
 cheapest
-cheapest
 cheeky
 cheekyer
 cheekyest
@@ -805,7 +803,6 @@ cooing
 cooked
 cool
 cooler
-coolest
 coolest
 cooperative
 coordinated
@@ -1554,7 +1551,6 @@ fashionable
 fast
 faster
 fastest
-fastest
 fastidious
 fast-moving
 fat
@@ -1932,16 +1928,20 @@ gratified
 gratifying
 grating
 gratis
-gratuitous	grave
-gratuitous	graveer
-gratuitous	graveest
+gratuitous
+gratuitous
+gratuitous
+grave
+graveer
+graver
+graveest
+gravest
 gray
 greasy
 greasyer
 greasyest
 great
 greater
-greatest
 greatest
 greedy
 greedyer
@@ -2093,7 +2093,6 @@ hideous
 high
 higher
 highest
-highest
 highfalutin
 high-functioning
 high-maintenance
@@ -2134,7 +2133,6 @@ horrified
 horrifying
 hospitable
 hostile
-hot
 hot
 hot-blooded
 hotheaded
@@ -2737,8 +2735,6 @@ lonelyest
 long
 longer
 longest
-longer
-longest
 longing
 long-term
 long-winded
@@ -2767,7 +2763,6 @@ lower
 lowest
 low-calorie
 low-carb
-lower
 low-fat
 lowly
 lowlyer
@@ -3061,7 +3056,6 @@ near
 nearer
 nearest
 nearby
-nearest
 nearsighted
 neat
 neater
@@ -3088,7 +3082,6 @@ neurotic
 neutral
 new
 newer
-newest
 newest
 next
 next-door
@@ -3214,8 +3207,6 @@ oilyest
 OK
 okay
 old
-older
-oldest
 older
 oldest
 old-fashioned
@@ -3491,8 +3482,6 @@ ponderous
 poor
 poorer
 poorest
-poorer
-poorest
 popping
 popular
 populous
@@ -3697,7 +3686,6 @@ quicker
 quickest
 quick-acting
 quick-drying
-quickest
 quick-minded
 quick-paced
 quick-tempered
@@ -3828,7 +3816,8 @@ renegotiable
 renewable
 rented
 repairable
-repaired	repeatable
+repaired
+repeatable
 repeated
 repentant
 repetitious
@@ -3893,8 +3882,6 @@ rewarding
 rhetorical
 rhythmic
 rich
-richer
-richest
 richer
 richest
 ridiculing
@@ -4333,16 +4320,12 @@ slyest
 small
 smaller
 smallest
-smaller
-smallest
 small-minded
 small-scale
 small-time
 small-town
 smarmy
 smart
-smarter
-smartest
 smarter
 smartest
 smashing
@@ -4388,7 +4371,6 @@ snuger
 snugest
 snuggly
 soaked
-soaking
 soaking
 soaring
 sober
@@ -4631,8 +4613,6 @@ striped
 strong
 stronger
 strongest
-stronger
-strongest
 structural
 stubborn
 stubby
@@ -4775,8 +4755,6 @@ take-charge
 talented
 talkative
 tall
-taller
-tallest
 taller
 tallest
 tame
@@ -5586,7 +5564,6 @@ warlike
 warm
 warmer
 warmest
-warmest
 warning
 warring
 wary
@@ -5770,8 +5747,6 @@ worldly
 worldlyer
 worldlyest
 worn
-worn
-worn
 worried
 worrisome
 worrying
@@ -5803,8 +5778,6 @@ yellow
 yelping
 yielding
 young
-younger
-youngest
 younger
 youngest
 youthful
